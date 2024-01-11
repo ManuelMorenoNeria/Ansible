@@ -32,3 +32,5 @@
 [Jose Miguel González Alba](https://github.com/MiguelKurai)
 
 ## Licencia
+
+![image](/img/licencia.jpg)

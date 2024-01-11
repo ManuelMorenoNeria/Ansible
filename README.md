@@ -20,7 +20,8 @@
 
 ## Referencias
 
-
+[GitHub Pages](http://iesgn.github.io/ow1/curso/u7/ansible)
+[Presentacion de Manuel Dominguez Tienda](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/course/view.php?id=7692)
 
 ## Autores
 [Hugo González Salas](https://github.com/HugoGonzalezSalas)

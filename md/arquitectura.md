@@ -1,3 +1,5 @@
+## Arquitectura
+
 La arquitectura de Ansible se centra en la ejecución remota de módulos en los nodos a través de SSH, utilizando playbooks y roles para organizar y estructurar la automatización
 
 ![Arquitectura](/img/arquitectura.png)

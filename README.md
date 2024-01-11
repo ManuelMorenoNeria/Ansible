@@ -9,7 +9,7 @@
 [2.- ¿Qué es Ansible?](/md/definicion.md)
 
 
-[3.- Características de Ansible.](/md/caracteristicas.md)
+[3.- Características de Ansible.](/md/caracteriticas.md)
 
 
 [4.- Los competidores.](/md/competidores.md)

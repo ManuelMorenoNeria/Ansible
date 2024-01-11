@@ -23,6 +23,8 @@
 
 
 ## Autores
-[Hugo Gonzalez Salas](https://github.com/HugoGonzalezSalas)
+[Hugo González Salas](https://github.com/HugoGonzalezSalas)
 
 [Manuel Moreno Neria](https://github.com/ManuelMorenoNeria)
+
+[Jose Miguel González Alba](https://github.com/MiguelKurai)

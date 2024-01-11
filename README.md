@@ -24,6 +24,8 @@
 
 [Presentacion de Manuel Dominguez Tienda](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/course/view.php?id=7692)
 
+[Página oficial de Ansible](https://docs.ansible.com/ansible/latest/dev_guide/overview_architecture.html)
+
 ## Autores
 [Hugo González Salas](https://github.com/HugoGonzalezSalas)
 

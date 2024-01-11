@@ -1,6 +1,6 @@
 # Ansible
 
-![portada](/img/portada.jpg)
+![portada](/img/ansible.jpg)
 
 ## Indice
 [1.-Introducción](/md/introduccion.md)

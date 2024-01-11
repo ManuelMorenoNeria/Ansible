@@ -4,4 +4,4 @@ Tiene gran fiabilidad, consistencia y escalabilidad.
 Es una herramienta fácil de configurar y utilizar.
 No necesita agentes como otros productos, sino que trabaja básicamente a través de SSH.
 
-![image](/img/)
+![image](/img/quees.png)

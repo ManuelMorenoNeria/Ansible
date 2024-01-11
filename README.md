@@ -21,6 +21,7 @@
 ## Referencias
 
 [GitHub Pages](http://iesgn.github.io/ow1/curso/u7/ansible)
+
 [Presentacion de Manuel Dominguez Tienda](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/course/view.php?id=7692)
 
 ## Autores
@@ -29,3 +30,5 @@
 [Manuel Moreno Neria](https://github.com/ManuelMorenoNeria)
 
 [Jose Miguel González Alba](https://github.com/MiguelKurai)
+
+## Licencia

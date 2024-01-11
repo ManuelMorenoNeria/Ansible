@@ -1,1 +1,1 @@
-![image](/img/competidores.jpg)
+![image](/img/competidores.png)

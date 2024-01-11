@@ -11,4 +11,4 @@ estado “deseado” y correcto.
 - Orquestación: nos permite organizar todos nuestros componentes para que se relacionen de manera correcta. Podemos establecer reglas.
 - Seguridad: nos permite establecer políticas de seguridad para los distintos equipos y entornos con los que trabajemos (SSH).
 
-![image](/img/)
+![image](/img/cara.png)
